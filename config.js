@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["56928561853", 'MichiBot', true], //MichiBot🐈
-["56941827124"], 
+["5215650211735"], 
 ["56928561853"], 
 ["56941827124"],
 ['56941827124'],
